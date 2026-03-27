@@ -2,7 +2,7 @@
 
 A desktop speech-to-text app for Mac with system audio capture, live transcription, and translation.
 
-**Requirements:** Mac with Apple Silicon (M1, M2, M3, M4) running macOS Ventura or later.
+**Requirements:** Mac with Apple Silicon (M1 or later) running macOS Ventura or later.
 
 ---
 
