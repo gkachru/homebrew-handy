@@ -1,8 +1,8 @@
 cask "handy" do
-  version "0.8.1-fork"
+  version "0.8.1-fork.2"
   sha256 "337dad58229555f940be8dde4aff7625eb7a82023370b91ec8ac9156ad68e60c"
 
-  url "https://github.com/gkachru/Handy/releases/download/v#{version}/Handy_0.8.1_aarch64.dmg",
+  url "https://github.com/gkachru/Handy/releases/download/v0.8.1-fork/Handy_0.8.1_aarch64.dmg",
       verified: "github.com/gkachru/Handy/"
   name "Handy"
   desc "Speech to text application (fork with system audio & Mistral streaming)"
