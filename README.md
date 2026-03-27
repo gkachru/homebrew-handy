@@ -35,7 +35,7 @@ brew tap gkachru/handy
 ```
 
 ```bash
-brew install --cask gkachru/handy/handy
+brew install --cask handy-fork
 ```
 
 That's it! You'll find **Handy** in your Applications folder. You can also open it with Spotlight (Cmd + Space, type "Handy").
@@ -50,7 +50,7 @@ To update to the latest version:
 
 ```bash
 brew update
-brew upgrade --cask gkachru/handy/handy
+brew upgrade --cask handy-fork
 ```
 
 ---
@@ -60,13 +60,13 @@ brew upgrade --cask gkachru/handy/handy
 To remove the app:
 
 ```bash
-brew uninstall --cask handy
+brew uninstall --cask handy-fork
 ```
 
 To also remove all app data and settings:
 
 ```bash
-brew uninstall --cask --zap handy
+brew uninstall --cask --zap handy-fork
 ```
 
 To remove the tap (stops future updates):
@@ -81,9 +81,6 @@ brew untap gkachru/handy
 
 **"brew: command not found"**
 Close Terminal and reopen it, then try again.
-
-**"You already have the official Handy cask installed"**
-Run `brew uninstall --cask handy` first, then install again with the commands above.
 
 **App won't open / "damaged" warning**
 Run this to fix it:

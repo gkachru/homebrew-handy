@@ -1,4 +1,4 @@
-cask "handy" do
+cask "handy-fork" do
   version "0.8.1-fork.2"
   sha256 "337dad58229555f940be8dde4aff7625eb7a82023370b91ec8ac9156ad68e60c"
 
