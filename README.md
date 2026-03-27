@@ -49,6 +49,7 @@ On first launch, macOS will ask for **Microphone** and **Accessibility** permiss
 To update to the latest version:
 
 ```bash
+brew update
 brew upgrade --cask handy
 ```
 
