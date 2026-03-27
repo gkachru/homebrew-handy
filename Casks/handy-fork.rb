@@ -1,6 +1,6 @@
 cask "handy-fork" do
-  version "0.8.1-fork.2"
-  sha256 "337dad58229555f940be8dde4aff7625eb7a82023370b91ec8ac9156ad68e60c"
+  version "0.8.1-fork.3"
+  sha256 "654a1e033d8ba7cf39fd06410331bdc69ca709115b288b0a1d9840774ed737a1"
 
   url "https://github.com/gkachru/Handy/releases/download/v0.8.1-fork/Handy_0.8.1_aarch64.dmg",
       verified: "github.com/gkachru/Handy/"
