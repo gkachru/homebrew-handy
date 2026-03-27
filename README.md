@@ -35,7 +35,7 @@ brew tap gkachru/handy
 ```
 
 ```bash
-brew install --cask handy
+brew install --cask gkachru/handy/handy
 ```
 
 That's it! You'll find **Handy** in your Applications folder. You can also open it with Spotlight (Cmd + Space, type "Handy").
@@ -50,7 +50,7 @@ To update to the latest version:
 
 ```bash
 brew update
-brew upgrade --cask handy
+brew upgrade --cask gkachru/handy/handy
 ```
 
 ---
@@ -79,7 +79,7 @@ brew untap gkachru/handy
 
 ## Troubleshooting
 
-**"handy: command not found" or "brew: command not found"**
+**"brew: command not found"**
 Close Terminal and reopen it, then try again.
 
 **"You already have the official Handy cask installed"**
